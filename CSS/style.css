@@ -1,0 +1,14 @@
+header{
+
+    background-color: rgb(212, 72, 16);
+}
+
+ul.list1 li {
+    display: inline;
+    padding-right: 0.5em;
+  }
+ul.navega li {
+    display: inline;
+    padding-right: 0.5em;
+  }
+  
